@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como parte do curso de iniciação em programaçã
 
 Abaixo está uma imagem da interface do **Jogo Amigo Secreto**, onde os usuários podem adicionar nomes e realizar o sorteio:
 
-![Interface do Jogo Amigo Secreto](C:\Users\Pedro Azevedo\OneDrive\Documentos\CURSO ONE - ORACLE\challenge-amigo-secreto_pt-main\challenge-amigo-secreto_pt-main\assets)
+![Prévia do Jogo](assets/preview.png)
 
 > Interface simples e intuitiva: insira os nomes dos participantes, clique em "Sortear amigo" e descubra quem tirou quem 🎁
 
