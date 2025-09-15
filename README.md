@@ -2,6 +2,15 @@
 
 Este projeto foi desenvolvido como parte do curso de iniciação em programação da [Alura](https://www.alura.com.br), através do programa de estudos **ONE - Oracle Next Education**. O objetivo foi colocar em prática os conceitos aprendidos de HTML e JavaScript, criando uma aplicação divertida e funcional.
 
+## 🖼️ Prévia do Jogo
+
+Abaixo está uma imagem da interface do **Jogo Amigo Secreto**, onde os usuários podem adicionar nomes e realizar o sorteio:
+
+![Interface do Jogo Amigo Secreto](C:\Users\Pedro Azevedo\OneDrive\Documentos\CURSO ONE - ORACLE\challenge-amigo-secreto_pt-main\challenge-amigo-secreto_pt-main\assets)
+
+> Interface simples e intuitiva: insira os nomes dos participantes, clique em "Sortear amigo" e descubra quem tirou quem 🎁
+
+
 ## ✨ Funcionalidades
 
 - ✅ Coleta de nomes dos participantes
