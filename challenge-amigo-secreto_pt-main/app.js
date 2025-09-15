@@ -33,5 +33,10 @@ function sortearAmigo() {
 
     alert("Amigo sorteado: " + nomeSorteado);
 }
-
+function reiniciarJogo() {
+    Amigo = []; // Zera a lista
+    document.getElementById('listaAmigos').innerHTML = ""; // Limpa a exibição
+    document.getElementById('amigo').value = ""; // Limpa o campo de entrada
+    
+}
 
