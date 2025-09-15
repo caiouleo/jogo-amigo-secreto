@@ -28,11 +28,15 @@ function sortearAmigo() {
         alert("A lista de amigos está vazia!");
         return;
     }
- let indiceAleatorio = Math.floor(Math.random() * Amigo.length);
+
+    let indiceAleatorio = Math.floor(Math.random() * Amigo.length);
     let nomeSorteado = Amigo[indiceAleatorio];
 
-    alert("Amigo sorteado: " + nomeSorteado);
+    // Exibe o resultado na tela, não em alert
+    let resultado = document.getElementById('resultadoSorteio');
+    resultado.textContent = "Seu amigo é: " + nomeSorteado;
 }
+
 function reiniciarJogo() {
     Amigo = []; // Zera a lista
     document.getElementById('listaAmigos').innerHTML = ""; // Limpa a exibição

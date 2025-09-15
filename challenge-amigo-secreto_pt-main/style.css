@@ -161,3 +161,20 @@ ul {
     background-color: var(--color-button-hover);
 }
 
+#resultadoSorteio {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: "Inter", sans-serif;
+  color: #2e7d32; /* Verde escuro */
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+/* Centraliza verticalmente dentro da section */
+.input-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 80vh;
+}
